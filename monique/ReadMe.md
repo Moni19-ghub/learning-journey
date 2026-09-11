@@ -1,1 +1,17 @@
 My experience with Git and GitHub
+
+What did I learn about Git and GitHub?
+
+This week was a real eye opeinong journey to me as I have never used git before and had very little experience with git.
+One of the ost important things I learned is that git is used for local version control and takes snapshots of your code while github is more a cloud platform used to share code to others. I learned how to interact with git on VSCode to create new repositories, create files in the repositories, how to clone repositories into the termoninal, how to commit changes to files, how to great branches and so much more. Overall this week has opened my eyes to the possibilities of git and github.
+
+What track am I interested in?
+
+Front End Development. I completed my Honours in Computer Science and Information Systems last year and although I truly did enjoy my degrees I have been eager to learn something more visually appealing. During my undergrad degree I did a Web Systems module that intoduved me to HTML,CSS,ASP.NET Core and JavaScript and I immediatly fell in love with the design and creation of websites. I love the visual element of computer science and am eager to learn more frontend technologies to create amazing apps and systems. 
+
+What cool thing do you know about your track?
+
+I already know my basics to html and css but I also figure out you to use javascript to trigger audio when clicking a button and to add animation to pictures to make them hover or bob etc.
+
+What do I still need to learn?
+I have learned alot about commiting, pushing,pulling and creating branches this week but do feel that I still need to perfect these skills. I am still relatively new to git so I do need time to perfect the keywords and actions over the next few years.
